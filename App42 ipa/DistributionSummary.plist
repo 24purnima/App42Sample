@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>App42.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>6784EC81E5AA3D4F4900789EAA7F31AD6C3C4257</string>
+				<key>dateExpires</key>
+				<string>16/10/18</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>93TF9ZT92J.com.shephertz.App42Services</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>93TF9ZT92J</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>93TF9ZT92J.com.shephertz.App42Services</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>App42.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>61d612b5-ad9f-4be5-8e65-e506de8a4916</string>
+				<key>name</key>
+				<string>ShephertzDevelopmentProfile</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>93TF9ZT92J</string>
+				<key>name</key>
+				<string>Shephertz Technologies Private Limited</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
