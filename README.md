@@ -8,7 +8,7 @@
 ![Cart](screenshots/productFeature.jpeg)
 ![Cart](screenshots/cart.jpeg)
 ![Cart](screenshots/payment.jpeg)
-![Cart](screenshots/congratulation.jpeg)
+![Cart](screenshots/congratulations.jpeg)
 ![Cart](screenshots/menu.jpeg)
 ![Cart](screenshots/profile.jpeg)
 ![Cart](screenshots/wishlist.jpeg)
