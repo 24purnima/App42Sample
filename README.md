@@ -1,16 +1,29 @@
 # App42Sample
 
-![Cart](screenshots/welcome.jpeg)
-![Cart](screenshots/signup.jpeg)
-![Cart](screenshots/login.jpeg)
-![Cart](screenshots/home.jpeg)
-![Cart](screenshots/productDetail.jpeg)
-![Cart](screenshots/productFeature.jpeg)
-![Cart](screenshots/cart.jpeg)
-![Cart](screenshots/payment.jpeg)
-![Cart](screenshots/congratulations.jpeg)
-![Cart](screenshots/menu.jpeg)
-![Cart](screenshots/profile.jpeg)
-![Cart](screenshots/wishlist.jpeg)
-![Cart](screenshots/customerSupport.jpeg)
+![welcome](screenshots/welcome.jpeg)
+
+![signup](screenshots/signup.jpeg)
+
+![login](screenshots/login.jpeg)
+
+![home](screenshots/home.jpeg)
+
+![productDetail](screenshots/productDetail.jpeg)
+
+![productFeature](screenshots/productFeature.jpeg)
+
+![cart](screenshots/cart.jpeg)
+
+![payment](screenshots/payment.jpeg)
+
+![congratulations](screenshots/congratulations.jpeg)
+
+![menu](screenshots/menu.jpeg)
+
+![profile](screenshots/profile.jpeg)
+
+![wishlist](screenshots/wishlist.jpeg)
+
+![customerSupport](screenshots/customerSupport.jpeg)
+
 
